@@ -11,15 +11,23 @@
   ],
   "ManagedBookmarks": [
     {
-      "toplevel_name": "My managed bookmarks folder"
+      "toplevel_name": "My Bookmark"
     },
     {
       "name": "Google",
       "url": "google.com"
     },
     {
-      "name": "Youtube",
-      "url": "youtube.com"
+      "name": "TryHackMe",
+      "url": "tryhackme.com"
+    },
+    {
+      "name": "HackTheBox",
+      "url": "app.hackthebox.com"
+    },
+    {
+      "name": "TwitterX",
+      "url": "twitter.com"
     },
     {
       "children": [
